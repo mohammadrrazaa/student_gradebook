@@ -26,7 +26,7 @@ gradebook-cli/
 Clone the repository and move into the project folder:
 
 ```bash
-
+https://github.com/mohammadrrazaa/student_gradebook.git
 ```
 ---
 🖥️ Usage
